@@ -29,6 +29,7 @@ nav a{
     text-decoration: none;
     color: white;
     padding: 5px;
+    padding-left: 40px;
 }
 .oferta{
     border: 10px solid grey; 
@@ -40,4 +41,7 @@ nav a{
 }
 li{
     list-style: none;
+}
+section{
+    min-height: 80vh;
 }
